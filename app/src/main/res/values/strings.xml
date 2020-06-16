@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Translate Phrases</string>
+    <string name="do_you_speak_english">DO YOU SPEAK ENGLISH?</string>
+    <string name="good_evening">GOOD EVENING</string>
+    <string name="my_name_is">MY NAME IS</string>
+    <string name="please">PLEASE</string>
+    <string name="string_please" />
+    <string name="welcome">WELCOME</string>
+    <string name="i_live_in">I LIVE IN</string>
+    <string name="how_are_you">HOW ARE YOU?</string>
+    <string name="hello">HELLO</string>
+    <string name="doyouspeakenglish" />
+    <string name="goodevening" />
+</resources>
